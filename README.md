@@ -48,4 +48,4 @@ Each answer will be accompanied by pandas code you can copy into your notebook o
 
 ---
 
-*CsvPal-AI: https://huggingface.co/spaces/Tulika2000/CsvPal-AI*
+**CsvPal-AI**: https://huggingface.co/spaces/Tulika2000/CsvPal-AI
