@@ -1,4 +1,5 @@
 # CsvPal-AI
+<img width="1112" height="480" alt="Screenshot 2025-08-15 162809" src="https://github.com/user-attachments/assets/1cd3aca4-c320-486a-aaab-573a6361134a" />
 
 **CsvPal-AI** is a Retrieval-Augmented Generation (RAG) powered assistant that allows you to interactively analyze your CSV data using natural language queries. Upload any CSV file, ask questions about your data, and receive answers *grounded strictly in your file*—complete with ready-to-run Python (pandas) code snippets to reproduce the result.
 
